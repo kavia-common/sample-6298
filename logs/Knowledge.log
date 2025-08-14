@@ -419,3 +419,87 @@
 2025-08-14 10:58:53,386 - Knowledge - INFO - Updating org costs, total cost: 0.005604199999999999
 2025-08-14 10:58:53,497 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-14 10:58:53,512 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-14 11:02:34,055 - Knowledge - INFO - Redis support added with prefix knowledge:b12849t:
+2025-08-14 11:02:34,235 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-14 11:02:34,530 - Knowledge - INFO - Persisted knowledge files in /app/data/b2c/6298/b12849t/sample-6298/.knowledge have been renamed to use .json
+2025-08-14 11:02:34,541 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,541 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,541 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/pom.xml
+2025-08-14 11:02:34,547 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,547 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,547 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/operations/MinusTest.java
+2025-08-14 11:02:34,552 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,552 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,552 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/TextProvider.java
+2025-08-14 11:02:34,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,557 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/operations/PlusTest.java
+2025-08-14 11:02:34,563 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,563 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Divide.java
+2025-08-14 11:02:34,570 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,570 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,570 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/AbstractOperation.java
+2025-08-14 11:02:34,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,577 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/Operations.java
+2025-08-14 11:02:34,583 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,583 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,583 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/UnaryOperation.java
+2025-08-14 11:02:34,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,589 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,589 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Square.java
+2025-08-14 11:02:34,594 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,594 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,594 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/ui/swing/CalculatorUI.java
+2025-08-14 11:02:34,599 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,599 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,599 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/ui/swt/CalculatorUI.java
+2025-08-14 11:02:34,606 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,606 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,606 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/Calculator.java
+2025-08-14 11:02:34,612 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,612 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,612 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/BinaryOperation.java
+2025-08-14 11:02:34,617 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,618 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,618 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Equals.java
+2025-08-14 11:02:34,623 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,623 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,623 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/pom.xml
+2025-08-14 11:02:34,629 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,629 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,629 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/operations/AbstractOperationTest.java
+2025-08-14 11:02:34,634 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,635 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,635 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/OperationsTest.java
+2025-08-14 11:02:34,640 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,640 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,640 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/Operation.java
+2025-08-14 11:02:34,645 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,645 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,646 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/operations/SquareTest.java
+2025-08-14 11:02:34,651 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,651 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,651 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/CalculatorTest.java
+2025-08-14 11:02:34,656 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,657 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,657 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/pom.xml
+2025-08-14 11:02:34,662 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,662 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,662 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Plus.java
+2025-08-14 11:02:34,667 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,667 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,667 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc.test/tst/org/eclipse/example/calc/internal/operations/EqualsTest.java
+2025-08-14 11:02:34,673 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/sample-6298.git:kavia-master
+2025-08-14 11:02:34,673 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcf904bd910>
+2025-08-14 11:02:34,673 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b12849t/sample-6298/org.eclipse.example.calc/src/org/eclipse/example/calc/internal/operations/Minus.java
+2025-08-14 11:02:34,675 - Knowledge - INFO - load persisted knowledge: end
+2025-08-14 11:02:34,675 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-14 11:02:34,676 - Knowledge - INFO - load persisted docinfo: end
+2025-08-14 11:02:34,719 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-14 11:02:34,720 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-14 11:02:34,721 - Knowledge - INFO - Knowledge creation complete
+2025-08-14 11:02:34,723 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-14 11:02:34,727 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-14 11:02:34,743 - Knowledge - INFO - Knowledge saved to Redis successfully
